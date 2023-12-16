@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Coloring for :Kids",
+  "description": "Coloring for: Kids",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Coloring for :Kids",
+  "name": "Coloring for: Kids",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Coloring for :Kids",
+  "short_name": "Coloring for: Kids",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Coloring for :Kids",
+      "name": "Coloring for: Kids",
       "url": "",
       "description": ""
     }
